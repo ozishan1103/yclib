@@ -1,0 +1,1 @@
+awswrangler==0.3.2
